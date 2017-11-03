@@ -10,7 +10,11 @@
 
 
 /* About Section CSS */
+#myCarousel {
+    height: 30px;
+    width: 30px;
 
+}
 
 
 /* Portfolio Item CSS */
